@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hehehehehehehe1ghjk
+=======
+hehehehehe
+>>>>>>> 9aa04ad55c6755023592ccde772137751b23075f
 test is a shell builtin
